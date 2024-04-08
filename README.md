@@ -3,7 +3,11 @@ A script that allows me to quickly reinstall my EndeavourOS setup without having
 
 Prerequisites:
 
-JetBrainsMono nerd font and GE-Proton needs to be in the Downloads folder
+JetBrainsMono nerd font and GE-Proton needs to be in the Downloads folder. Link to both here
+
+GE-Proton: https://github.com/GloriousEggroll/proton-ge-custom
+
+JetBrainsMono Nerd Font: https://www.jetbrains.com/lp/mono/
 
 Hyprland Starter Script: https://gitlab.com/stephan-raabe/hyprland-starter
 
