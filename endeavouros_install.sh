@@ -13,3 +13,15 @@ yay -S --noconfirm telegram-desktop-bin
 yay -S --noconfirm vesktop-bin
 yay -S --noconfirm mullvad-vpn-bin
 yay -S --noconfirm prismlauncher
+
+#To install hyprland
+cd Downloads
+git clone https://gitlab.com/stephan-raabe/hyprland-starter.git
+cd hyprland-starter
+./install.sh
+
+#To install dotfiles
+cd Downloads
+git clone https://gitlab.com/stephan-raabe/dotfiles.git
+cd dotfiles
+./install.sh
