@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#To reinstall the base components for Nvidia drivers
+#To reinstall the base components for Nvidia drivers and all of my packages
 sudo pacman -S --noconfirm base-devel linux-headers git nano steam wine kdenlive flatpak lutris vim neovim curl wget gimp krita inkscape qbittorrent hyprshot hyprshot-gui zenity libreoffice-still sdl2 freetype harfbuzz onnxruntime
 
 #To install Nvidia drivers
