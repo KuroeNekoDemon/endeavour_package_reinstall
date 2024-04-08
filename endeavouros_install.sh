@@ -25,3 +25,5 @@ cd Downloads
 git clone https://gitlab.com/stephan-raabe/dotfiles.git
 cd dotfiles
 ./install.sh
+
+echo "Remember to do any post configuration steps! Enjoy!"
