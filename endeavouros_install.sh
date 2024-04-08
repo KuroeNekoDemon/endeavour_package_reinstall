@@ -13,7 +13,6 @@ yay -S --noconfirm telegram-desktop-bin
 yay -S --noconfirm vesktop-bin
 yay -S --noconfirm mullvad-vpn-bin
 yay -S --noconfirm prismlauncher
-yay -S --noconfirm waypaper
 
 #To reinstall OBS-Studio from flathub plus the VK-Capture plugin to window capture specific windows with Pipewire
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
