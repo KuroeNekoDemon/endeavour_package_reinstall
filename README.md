@@ -8,3 +8,5 @@ JetBrainsMono nerd font and GE-Proton needs to be in the Downloads folder
 Hyprland Starter Script: https://gitlab.com/stephan-raabe/hyprland-starter
 
 Dotfiles Install Script: https://gitlab.com/stephan-raabe/dotfiles
+
+If you have an ASUS ROG Laptop follow the instructions on this wiki to setup asusctl, supergfxctl and rog-control-center: https://asus-linux.org/guides/arch-guide/
