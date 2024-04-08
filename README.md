@@ -9,6 +9,8 @@ GE-Proton: https://github.com/GloriousEggroll/proton-ge-custom
 
 JetBrainsMono Nerd Font: https://www.jetbrains.com/lp/mono/
 
+Hyprland and dotfiles scripts here:
+
 Hyprland Starter Script: https://gitlab.com/stephan-raabe/hyprland-starter
 
 Dotfiles Install Script: https://gitlab.com/stephan-raabe/dotfiles
