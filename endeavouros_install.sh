@@ -16,6 +16,7 @@ yay -S --noconfirm prismlauncher
 yay -S --noconfirm waypaper
 
 #To reinstall OBS-Studio from flathub plus the VK-Capture plugin to window capture specific windows with Pipewire
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 flatpak install --user flathub com.obsproject.Studio -y
 flatpak install --user flathub com.obsproject.Studio.Plugins.OBSVkCapture -y
 
