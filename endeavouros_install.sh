@@ -42,7 +42,7 @@ fc-cache ~/.local/share/fonts
 cd ~/
 git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 
-#To remind me to edit Grub when this is done
+#To remind me to edit Grub, Hyprland.conf and /etc/environment when this is done
 echo "Remember to add nvidia-drm.modeset=1 to the bootloader settings in the line GRUB_CMDLINE_LINUX_DEFAULT in /etc/default/grub and use sudo grub-mkconfig -o /boot/grub/grub.cfg to update Grub"
 echo "Also reboot into KDE Plasma 6 first to make sure everything worked then Hyprland"
 echo "Add in /etc/environment as root WRL_NO_HARDWARE_CURSORS=1 to get the cursor to appear in the second monitor"
