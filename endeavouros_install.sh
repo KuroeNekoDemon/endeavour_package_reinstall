@@ -39,7 +39,7 @@ mkdir -p ~/.steam/root/compatibilitytools.d
 tar -xf GE-Proton*.tar.gz -C ~/.steam/root/compatibilitytools.d
 
 #To reinstall NVChad with my nerd font
-cd ~/Downloads/Fonts
+cd ~/Downloads
 alias vim=nvim
 sudo mkdir ~/.local/share/fonts
 unzip JetBrainsMono.zip -d ~/.local/share/fonts
