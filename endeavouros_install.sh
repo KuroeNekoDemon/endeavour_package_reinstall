@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #To reinstall the base components for Nvidia drivers and all of my packages
-sudo pacman -S --noconfirm base-devel linux-headers git nano steam wine kdenlive flatpak lutris vim neovim curl wget gimp krita inkscape qbittorrent zenity libreoffice-still sdl2 harfbuzz onnxruntime
+sudo pacman -S --noconfirm base-devel linux-headers git nano steam wine kdenlive flatpak lutris vim neovim curl wget gimp krita inkscape qbittorrent libreoffice-still
 
 #To install Nvidia drivers
 yay -S --noconfirm nvidia nvidia-utils lib32-nvidia-utils opencl-nvidia
