@@ -33,6 +33,11 @@ git clone https://gitlab.com/stephan-raabe/dotfiles.git
 cd dotfiles
 ./install.sh --assumeyes
 
+#To tar ProtonGE to the right directory
+cd ~/Downloads
+mkdir -p ~/.steam/root/compatibilitytools.d
+tar -xf GE-Proton*.tar.gz -C ~/.steam/root/compatibilitytools.d
+
 #To reinstall NVChad with my nerd font
 cd ~/Downloads/Fonts
 alias vim=nvim
@@ -47,3 +52,4 @@ echo "Remember to add nvidia-drm.modeset=1 to the bootloader settings in the lin
 echo "Also reboot into KDE Plasma 6 first to make sure everything worked then Hyprland"
 echo "Add in /etc/environment as root WRL_NO_HARDWARE_CURSORS=1 to get the cursor to appear in the second monitor"
 echo "Add in ~/.config/hypr/hyprland.conf exec-once=waypaper --restore and exec-once=nm-applet --indicator at the bottom, save and reboot"
+echo "Once finished enjoy!"
