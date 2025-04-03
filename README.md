@@ -13,6 +13,7 @@ To get started follow these instructions:
 - ./endeavouros_install.sh
 
 Sources I used:
+
 Hyprland Starter Script: https://gitlab.com/stephan-raabe/hyprland-starter
 
 Dotfiles Install Script: https://gitlab.com/stephan-raabe/dotfiles
